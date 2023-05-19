@@ -1,0 +1,18 @@
+[submodule "Asp_Net_6_CRUD_EF_and_SQLServer"]
+	path = Asp_Net_6_CRUD_EF_and_SQLServer
+	url = https://github.com/Ethorcharl/Asp_Net_6_CRUD_EF_and_SQLServer_MVC
+[submodule "SuperHeroAPI"]
+	path = SuperHeroAPI
+	url = https://github.com/Ethorcharl/SuperHeroAPI-DotNet6
+[submodule "BlazorFullStackCrudNet6"]
+	path = BlazorFullStackCrudNet6
+	url = https://github.com/Ethorcharl/BlazorFullStackCrudNet6
+[submodule "EFCoreRelationshipsSQLServer"]
+	path = EFCoreRelationshipsSQLServer
+	url = https://github.com/Ethorcharl/EFCoreRelationshipsSQLServer
+[submodule "MyStoreAppSQLServer"]
+	path = MyStoreAppSQLServer
+	url = https://github.com/Ethorcharl/MyStoreAppSQLServerWithoutEF
+[submodule "MySQLEfCoreConnection"]
+	path = MySQLEfCoreConnection
+	url = https://github.com/Ethorcharl/MySQLEfCoreConnection
